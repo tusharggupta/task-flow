@@ -12,13 +12,13 @@
 
 ## 📌 Prerequisites
 
-**Bun Package Manager** (Recommended for faster installs)
+**Node version 18.x.x**
 
 
 ## 📦 Install Packages
 
 ```shell
-bun install
+npm install
 ```
 
 
@@ -26,7 +26,7 @@ bun install
 
 Create a `.env.local` file in the project root and set the necessary environment variables:
 
-```ini
+```js
 NEXT_PUBLIC_APP_URL=http://localhost:3000
 
 NEXT_PUBLIC_APPWRITE_ENDPOINT=https://cloud.appwrite.io/v1
@@ -46,7 +46,7 @@ NEXT_APPWRITE_KEY=
 ## 🚀 Start the App
 
 ```shell
-bun dev
+npm run dev
 ```
 
 
