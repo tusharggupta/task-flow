@@ -9,13 +9,11 @@
 - ✅ Manage tasks in data table, kanban, and calendar views effortlessly
 - ✅ Responsive design with TailwindCSS
 
----
 
 ## 📌 Prerequisites
 
 **Bun Package Manager** (Recommended for faster installs)
 
----
 
 ## 📦 Install Packages
 
@@ -23,7 +21,6 @@
 bun install
 ```
 
----
 
 ## ⚙️ Setup .env File
 
@@ -45,7 +42,6 @@ NEXT_PUBLIC_APPWRITE_IMAGES_BUCKET_ID=
 NEXT_APPWRITE_KEY=
 ```
 
----
 
 ## 🚀 Start the App
 
@@ -53,7 +49,6 @@ NEXT_APPWRITE_KEY=
 bun dev
 ```
 
----
 
 ## 🛠 Technologies Used
 
@@ -65,7 +60,6 @@ bun dev
 - [Shadcn UI](https://ui.shadcn.com/)
 - [Hono](https://hono.dev/)
 
----
 
 ## 📜 Available Commands
 
@@ -77,7 +71,6 @@ Run commands using `bun run [command]`
 | `build`  | Builds the app for deployment           |
 | `start`  | Runs the built version of the app       |
 
----
 
 ## 📦 Dependencies & Libraries
 
@@ -94,7 +87,6 @@ Run commands using `bun run [command]`
 - [tailwind-merge](https://www.npmjs.com/package/tailwind-merge)
 - [zod](https://www.npmjs.com/package/zod)
 
----
 
 🎉 **Enjoy building and using Jira Clone!** 🚀
 
